@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Birthday_Cake_Candles", "Bi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Time_Conversion", "Time_Conversion\Time_Conversion.csproj", "{08190360-0620-4D36-B317-6B208822ABE9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Apple_and_Orange", "Apple_and_Orange\Apple_and_Orange.csproj", "{C622C7CC-E145-4D22-B808-2EC0FA22F6C5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Apple_and_Orange", "Apple_and_Orange\Apple_and_Orange.csproj", "{C622C7CC-E145-4D22-B808-2EC0FA22F6C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diagonal_Difference", "Diagonal_Difference\Diagonal_Difference.csproj", "{AFFB78EF-DBC4-4A21-811F-3E54CB2506FC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{C622C7CC-E145-4D22-B808-2EC0FA22F6C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C622C7CC-E145-4D22-B808-2EC0FA22F6C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C622C7CC-E145-4D22-B808-2EC0FA22F6C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFFB78EF-DBC4-4A21-811F-3E54CB2506FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFFB78EF-DBC4-4A21-811F-3E54CB2506FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFFB78EF-DBC4-4A21-811F-3E54CB2506FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFFB78EF-DBC4-4A21-811F-3E54CB2506FC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
