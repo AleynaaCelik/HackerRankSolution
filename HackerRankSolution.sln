@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grading_Students", "Grading
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Number_Line_Jumps", "Number_Line_Jumps\Number_Line_Jumps.csproj", "{C16B2A79-8C6E-4A60-8BBD-68020801E7D0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Between_Two_Sets", "Between_Two_Sets\Between_Two_Sets.csproj", "{BECE2D22-16A6-47F8-9EEA-8A387AEBF0BD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{C16B2A79-8C6E-4A60-8BBD-68020801E7D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C16B2A79-8C6E-4A60-8BBD-68020801E7D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C16B2A79-8C6E-4A60-8BBD-68020801E7D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BECE2D22-16A6-47F8-9EEA-8A387AEBF0BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BECE2D22-16A6-47F8-9EEA-8A387AEBF0BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BECE2D22-16A6-47F8-9EEA-8A387AEBF0BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BECE2D22-16A6-47F8-9EEA-8A387AEBF0BD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
