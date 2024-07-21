@@ -39,6 +39,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sales_by_Match", "Sales_by_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bill,_Division", "Bill,_Division\Bill,_Division.csproj", "{81550570-7458-49EF-A035-13760D7D5256}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Drawing _Book", "Drawing _Book\Drawing _Book.csproj", "{75CB64FC-C4F8-4D40-8664-256BF0D1748D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{81550570-7458-49EF-A035-13760D7D5256}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{81550570-7458-49EF-A035-13760D7D5256}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{81550570-7458-49EF-A035-13760D7D5256}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75CB64FC-C4F8-4D40-8664-256BF0D1748D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75CB64FC-C4F8-4D40-8664-256BF0D1748D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75CB64FC-C4F8-4D40-8664-256BF0D1748D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75CB64FC-C4F8-4D40-8664-256BF0D1748D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
