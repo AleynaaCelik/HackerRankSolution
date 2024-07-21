@@ -38,3 +38,12 @@ class Solution
         Console.WriteLine(result);
     }
 }
+
+//pageCount Fonksiyonu:
+
+//frontFlips: Başlangıçtan sayfa p'ye kadar çevrilmesi gereken sayfa sayısını hesaplar. Bu, p sayfasının 2'ye bölünmesi ile elde edilir (p / 2).
+//backFlips: Kitabın sonundan sayfa p'ye kadar çevrilmesi gereken sayfa sayısını hesaplar. Bu, kitabın toplam sayfa sayısının 2'ye bölünmesi ile p sayfasının 2'ye bölünmesi arasındaki farktır ((n / 2) - (p / 2)).
+//Math.Min(frontFlips, backFlips): Başlangıçtan veya sondan çevrilmesi gereken sayfa sayılarından minimum olanı döndürür.
+//Solution Sınıfı:
+
+//Main Fonksiyonu: Kullanıcıdan girdileri alır, pageCount fonksiyonunu çağırır ve sonucu yazdırır.
