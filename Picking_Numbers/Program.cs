@@ -41,3 +41,11 @@ class Solution
         textWriter.Close();
     }
 }
+
+
+//pickingNumbers Fonksiyonu:
+
+//frequency dizisi, her sayının dizide kaç kez geçtiğini tutar.
+//Verilen a dizisindeki her bir eleman için frequency dizisini güncelleriz.
+//Ardından, frequency dizisini kontrol ederek her ardışık iki sayı için toplam frekansın en büyüğünü buluruz.
+//Bu toplam frekans, iki sayının (i ve i+1) maksimum alt dizisinin uzunluğunu verir.
