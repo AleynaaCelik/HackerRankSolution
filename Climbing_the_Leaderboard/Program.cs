@@ -58,3 +58,8 @@ class Solution
         textWriter.Close();
     }
 }
+//climbingLeaderboard Fonksiyonu:
+
+//ranked listesindeki tekrarlayan puanları kaldırmak için Distinct fonksiyonu kullanılır.
+//player listesindeki her bir skor için, mevcut sıralamayı belirlemek üzere ranked listesinin sonundan başlanır.
+//Skorun uygun sıralamadaki yeri bulunur ve sonuç listesine eklenir.
