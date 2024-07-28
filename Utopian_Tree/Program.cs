@@ -40,3 +40,16 @@ class Solution
         return height;
     }
 }
+
+
+//Main Fonksiyonu:
+//İlk olarak, test senaryolarının sayısını (t) okur.
+//cycles isimli bir listeye her bir test senaryosundaki büyüme döngüsü sayısını ekler.
+//Her bir büyüme döngüsü sayısı için UtopianTree fonksiyonunu çağırır ve sonucu ekrana yazar.
+
+//UtopianTree Fonksiyonu:
+//Başlangıçta ağacın yüksekliği 1 metre olarak ayarlanır.
+//n büyüme döngüsü boyunca döngü kurar. Her döngüde:
+//Eğer döngü numarası tek ise (ilkbahar), ağacın yüksekliği iki katına çıkar.
+//Eğer döngü numarası çift ise (yaz), ağacın yüksekliği 1 metre artar.
+//Son olarak, hesaplanan yüksekliği döndürür.
