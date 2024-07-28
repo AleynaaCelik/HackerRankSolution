@@ -53,3 +53,15 @@ class Solution
         Console.WriteLine(result);
     }
 }
+
+
+//migratoryBirds Fonksiyonu:
+
+//birdCounts adında bir Dictionary kullanarak her kuş türünün sayısını tutar.
+//foreach döngüsüyle tüm kuş türlerini dolaşarak frekanslarını sayar.
+//maxCount ve minTypeId değişkenleriyle en sık görülen kuş türünü ve bu türün kimlik numarasını takip eder.
+//Aynı sıklıkta birden fazla kuş türü varsa, kimlik numarası en küçük olanı seçer.
+//Main Fonksiyonu:
+
+//Kuş türlerinin sayısını ve türlerinin kimlik numaralarını girdiden alır.
+//migratoryBirds fonksiyonunu çağırarak sonucu hesaplar ve ekrana yazar.
