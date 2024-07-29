@@ -55,9 +55,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Easy", "Easy", "{04D27BB1-3
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Designer_PDF_Viewer", "Designer_PDF_Viewer\Designer_PDF_Viewer.csproj", "{73AF7271-D299-431B-9EB1-55B578ACD210}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utopian_Tree", "Utopian_Tree\Utopian_Tree.csproj", "{1546EEDF-4C2B-4AD2-B3A9-6DE7C3AD9CBD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Utopian_Tree", "Utopian_Tree\Utopian_Tree.csproj", "{1546EEDF-4C2B-4AD2-B3A9-6DE7C3AD9CBD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Migratory_Birds", "Migratory_Birds\Migratory_Birds.csproj", "{D0CE4E1A-424A-46F4-A0A2-707508353B38}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Migratory_Birds", "Migratory_Birds\Migratory_Birds.csproj", "{D0CE4E1A-424A-46F4-A0A2-707508353B38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The_Hurdle_Race", "The_Hurdle_Race\The_Hurdle_Race.csproj", "{DF0F6F55-5417-4BB7-92A6-1D071429DA9F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -173,6 +175,10 @@ Global
 		{D0CE4E1A-424A-46F4-A0A2-707508353B38}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D0CE4E1A-424A-46F4-A0A2-707508353B38}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D0CE4E1A-424A-46F4-A0A2-707508353B38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF0F6F55-5417-4BB7-92A6-1D071429DA9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF0F6F55-5417-4BB7-92A6-1D071429DA9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF0F6F55-5417-4BB7-92A6-1D071429DA9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF0F6F55-5417-4BB7-92A6-1D071429DA9F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -205,6 +211,7 @@ Global
 		{73AF7271-D299-431B-9EB1-55B578ACD210} = {04D27BB1-3CE7-4D11-9408-6766D07E9391}
 		{1546EEDF-4C2B-4AD2-B3A9-6DE7C3AD9CBD} = {04D27BB1-3CE7-4D11-9408-6766D07E9391}
 		{D0CE4E1A-424A-46F4-A0A2-707508353B38} = {04D27BB1-3CE7-4D11-9408-6766D07E9391}
+		{DF0F6F55-5417-4BB7-92A6-1D071429DA9F} = {04D27BB1-3CE7-4D11-9408-6766D07E9391}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {BACA79AE-878D-4B0D-8166-6889AAF3DAF6}
