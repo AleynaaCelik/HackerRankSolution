@@ -1,5 +1,6 @@
 ﻿using System;
 using System.IO;
+using System.Runtime.ConstrainedExecution;
 
 class Result
 {
@@ -35,3 +36,17 @@ class Solution
         textWriter.Close();
     }
 }
+
+
+//Başlangıç Durumu:
+
+//İlk gün reklam 5 kişiye gösterilir.
+//Reklamı görenlerin yarısı (tam sayıya yuvarlanmış olarak) beğenir ve ertesi gün için paylaşır.
+//Döngü:
+
+//Her gün için, reklamı gören kişi sayısı 2'ye bölünerek beğenen kişi sayısı hesaplanır.
+//Beğenen kişi sayısı, ertesi gün için paylaşacak kişi sayısını belirler (liked * 3).
+//Her gün beğenen kişi sayısı cumulativeLikes değişkenine eklenir.
+//Sonuç:
+
+//Döngü tamamlandığında, toplam beğeni sayısı döndürülür.
