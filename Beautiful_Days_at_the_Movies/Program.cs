@@ -60,3 +60,13 @@ class Solution
         Console.WriteLine(result);
     }
 }
+
+
+//beautifulDays Fonksiyonu:
+
+//Parametreler: Başlangıç günü i, bitiş günü j, ve bölme katsayısı k.
+//Her gün için (i'den j'ye kadar) tersini hesaplar ve farkın k ile tam bölünüp bölünmediğini kontrol eder.
+//ReverseNumber Yardımcı Fonksiyonu:
+
+//Sayıyı tersine çevirir.
+//Örneğin, 21 sayısını alır ve 12 olarak döndürür.
