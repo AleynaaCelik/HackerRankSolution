@@ -63,9 +63,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "The_Hurdle_Race", "The_Hurd
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Angry_Professor", "Angry_Professor\Angry_Professor.csproj", "{B9839D52-1AAC-4D6E-87CE-D63ADA109DAB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beautiful_Days_at_the_Movies", "Beautiful_Days_at_the_Movies\Beautiful_Days_at_the_Movies.csproj", "{F1FDA07A-D1D2-4BFD-9890-113EAF6C873E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Beautiful_Days_at_the_Movies", "Beautiful_Days_at_the_Movies\Beautiful_Days_at_the_Movies.csproj", "{F1FDA07A-D1D2-4BFD-9890-113EAF6C873E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Viral_Advertising", "Viral_Advertising\Viral_Advertising.csproj", "{530EF100-CC3E-428B-8E3C-869CE7E2F6D8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Viral_Advertising", "Viral_Advertising\Viral_Advertising.csproj", "{530EF100-CC3E-428B-8E3C-869CE7E2F6D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Save_the_Prisoner", "Save_the_Prisoner\Save_the_Prisoner.csproj", "{DF6377E3-7EC0-4CA3-8F6B-D4BCD64C08C3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -197,6 +199,10 @@ Global
 		{530EF100-CC3E-428B-8E3C-869CE7E2F6D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{530EF100-CC3E-428B-8E3C-869CE7E2F6D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{530EF100-CC3E-428B-8E3C-869CE7E2F6D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF6377E3-7EC0-4CA3-8F6B-D4BCD64C08C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF6377E3-7EC0-4CA3-8F6B-D4BCD64C08C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF6377E3-7EC0-4CA3-8F6B-D4BCD64C08C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF6377E3-7EC0-4CA3-8F6B-D4BCD64C08C3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -233,6 +239,7 @@ Global
 		{B9839D52-1AAC-4D6E-87CE-D63ADA109DAB} = {04D27BB1-3CE7-4D11-9408-6766D07E9391}
 		{F1FDA07A-D1D2-4BFD-9890-113EAF6C873E} = {04D27BB1-3CE7-4D11-9408-6766D07E9391}
 		{530EF100-CC3E-428B-8E3C-869CE7E2F6D8} = {04D27BB1-3CE7-4D11-9408-6766D07E9391}
+		{DF6377E3-7EC0-4CA3-8F6B-D4BCD64C08C3} = {04D27BB1-3CE7-4D11-9408-6766D07E9391}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {BACA79AE-878D-4B0D-8166-6889AAF3DAF6}
