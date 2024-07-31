@@ -43,3 +43,8 @@ class Solution
     }
 }
 
+
+
+//Başlangıç koltuğundan(s) başlayarak m adet tatlı dağıtılacak.
+//Dairesel bir yapıda olduğu için tatlı dağıtılırken son mahkumdan sonra ilk mahkûma dönülecek.
+//Tatlı dağıtımının son alıcısı, (s + m - 1) % n ile hesaplanır. Eğer hesaplama sonucu 0 çıkarsa, en son mahkûm tatlı alır, yani n.
