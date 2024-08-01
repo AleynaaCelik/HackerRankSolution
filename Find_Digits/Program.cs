@@ -40,3 +40,8 @@ class Solution
         }
     }
 }
+//findDigits(int n) fonksiyonu:
+
+//Verilen sayıyı rakamlara ayırır ve her bir rakamın, sayıyı bölüp bölmediğini kontrol eder.
+//Eğer rakam 0 değilse ve sayıyı bölebiliyorsa, sayacımızı bir artırır.
+//Sonuç olarak sayıyı bölen rakamların sayısını döndürür.
