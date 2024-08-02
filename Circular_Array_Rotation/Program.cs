@@ -48,3 +48,9 @@ class Solution
         }
     }
 }
+
+
+//CircularArrayRotation fonksiyonu:
+//k sayısını dizinin uzunluğuna göre mod alarak optimize ediyoruz.
+//Diziyi k kez sağa doğru döndürmek için her elemanı yeni pozisyonuna yerleştiriyoruz.
+//İstenen indekslerdeki elemanları döndürüyoruz.
