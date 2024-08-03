@@ -39,3 +39,6 @@ class Solution
         }
     }
 }
+//Math.Sqrt(a): Alt sınır olan a'nın karekökünü alır.
+//Math.Ceiling ve Math.Floor: a'nın karekökünü yukarı yuvarlamak ve b'nin karekökünü aşağı yuvarlamak için kullanılır.
+//Karesel Sayıları Sayma: Eğer alt sınırdan (yukarı yuvarlanan) küçük veya eşit olan karesel sayılar, üst sınırdan (aşağı yuvarlanan) büyükse, bu iki sayı arasında kaç tane karesel sayı olduğunu buluruz.
