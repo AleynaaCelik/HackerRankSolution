@@ -39,3 +39,8 @@ class Solution
         Console.WriteLine(result);
     }
 }
+//AppendAndDelete fonksiyonu:
+
+//s ve t dizilerinin ortak prefix uzunluğunu bulur.
+//s dizisinin kalan kısmını silmek ve t dizisini eklemek için gereken minimum işlem sayısını hesaplar.
+//Bu işlem sayısının k ile olan ilişkisine göre "Yes" veya "No" döndürür.
