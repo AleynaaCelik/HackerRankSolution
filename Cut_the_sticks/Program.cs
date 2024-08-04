@@ -39,3 +39,8 @@ class Solution
         Console.WriteLine(string.Join("\n", result));
     }
 }
+//cutTheSticks Fonksiyonu:
+
+//Bu fonksiyon, verilen çubuk uzunlukları listesindeki en küçük elemanı bulur (arr.Min()), bu değeri tüm çubuk uzunluklarından çıkarır ve geriye kalan çubukları listeye geri atar (arr = arr.Where(x => x > minVal).ToList()).
+//Her iterasyonda mevcut çubuk sayısını (arr.Count) sonucu kaydediyoruz.
+//Tüm çubuklar aynı uzunluğa ulaştığında, ya da çubukların hepsi kesilip bittiğinde (arr.Count == 0), işlem durur.
