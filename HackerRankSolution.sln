@@ -73,11 +73,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Find_Digits", "Find_Digits\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Circular_Array_Rotation", "Circular_Array_Rotation\Circular_Array_Rotation.csproj", "{CB0936DB-77CB-4511-8857-B555C2B49797}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Append_and_Delete", "Append_and_Delete\Append_and_Delete.csproj", "{05FA4C9D-D588-4BEA-816B-3FCF4F108277}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Append_and_Delete", "Append_and_Delete\Append_and_Delete.csproj", "{05FA4C9D-D588-4BEA-816B-3FCF4F108277}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sherlock_and_Squares", "Sherlock_and_Squares\Sherlock_and_Squares.csproj", "{22C2160A-35BD-4F65-8E97-0A53309CE1F9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sherlock_and_Squares", "Sherlock_and_Squares\Sherlock_and_Squares.csproj", "{22C2160A-35BD-4F65-8E97-0A53309CE1F9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Library_Fine", "Library_Fine\Library_Fine.csproj", "{C64E1F10-889F-4C4D-BA9C-730A6DE71BB2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Library_Fine", "Library_Fine\Library_Fine.csproj", "{C64E1F10-889F-4C4D-BA9C-730A6DE71BB2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cut_the_sticks", "Cut_the_sticks\Cut_the_sticks.csproj", "{0B08A82A-2144-4729-B1E5-DE569E3AC9EA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -233,6 +235,10 @@ Global
 		{C64E1F10-889F-4C4D-BA9C-730A6DE71BB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C64E1F10-889F-4C4D-BA9C-730A6DE71BB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C64E1F10-889F-4C4D-BA9C-730A6DE71BB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B08A82A-2144-4729-B1E5-DE569E3AC9EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B08A82A-2144-4729-B1E5-DE569E3AC9EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B08A82A-2144-4729-B1E5-DE569E3AC9EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B08A82A-2144-4729-B1E5-DE569E3AC9EA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -275,6 +281,7 @@ Global
 		{05FA4C9D-D588-4BEA-816B-3FCF4F108277} = {04D27BB1-3CE7-4D11-9408-6766D07E9391}
 		{22C2160A-35BD-4F65-8E97-0A53309CE1F9} = {04D27BB1-3CE7-4D11-9408-6766D07E9391}
 		{C64E1F10-889F-4C4D-BA9C-730A6DE71BB2} = {04D27BB1-3CE7-4D11-9408-6766D07E9391}
+		{0B08A82A-2144-4729-B1E5-DE569E3AC9EA} = {04D27BB1-3CE7-4D11-9408-6766D07E9391}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {BACA79AE-878D-4B0D-8166-6889AAF3DAF6}
